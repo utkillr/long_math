@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2013\Projects\LongNumbers\LongNumbers\bin\Debug\LongNumbers.exe.config
+c:\users\1\documents\visual studio 2013\Projects\LongNumbers\LongNumbers\obj\Debug\LongNumbers.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2013\Projects\LongNumbers\LongNumbers\bin\Debug\LongNumbers.exe
+c:\users\1\documents\visual studio 2013\Projects\LongNumbers\LongNumbers\bin\Debug\LongNumbers.pdb
+c:\users\1\documents\visual studio 2013\Projects\LongNumbers\LongNumbers\obj\Debug\LongNumbers.exe
+c:\users\1\documents\visual studio 2013\Projects\LongNumbers\LongNumbers\obj\Debug\LongNumbers.pdb
